@@ -1,0 +1,6 @@
+2024/04/22-10:30:54.786 39a8 Creating DB C:/Users/rladb/OneDrive/바탕 화면/GITHUB/Unreal-Engine-5.1.1/[ 0001 ] Chaos Destruction/Test/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/04/22-10:30:54.797 39a8 Reusing MANIFEST C:/Users/rladb/OneDrive/바탕 화면/GITHUB/Unreal-Engine-5.1.1/[ 0001 ] Chaos Destruction/Test/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/22-10:31:56.758 2870 Level-0 table #5: started
+2024/04/22-10:31:56.782 2870 Level-0 table #5: 1167 bytes OK
+2024/04/22-10:31:56.785 2870 Delete type=0 #3
+2024/04/22-10:31:56.785 2870 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
