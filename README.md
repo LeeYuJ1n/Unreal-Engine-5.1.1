@@ -3,4 +3,4 @@
 ---
 
 # INFORMATION
-https://www.youtube.com/watch?v=lN-oZmwVQ58
+[ 0001 ] Chaos Destruction : https://www.youtube.com/watch?v=lN-oZmwVQ58
